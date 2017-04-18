@@ -1,6 +1,6 @@
 {
   "name": "fly-jest",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Jest plugin for Fly.",
   "repository": "https://github.com/lukeed/fly-jest",
   "main": "index.js",
