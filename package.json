@@ -21,6 +21,9 @@
     "email": "luke.edwards05@gmail.com",
     "url": "https://lukeed.com"
   },
+  "dependencies": {
+    "jest-cli": "^19.0.2"
+  },
   "devDependencies": {
     "fly": "^2.0.5",
     "fly-clear": "^1.0.1",
